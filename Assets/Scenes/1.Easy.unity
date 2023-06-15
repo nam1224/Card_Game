@@ -373,10 +373,10 @@ MonoBehaviour:
   offset_y: 4.5
   originalCard: {fileID: 883408735}
   image:
-  - {fileID: 21300000, guid: ad0369a6f8e22cc4381cc6cf79ec6903, type: 3}
-  - {fileID: 21300000, guid: eb66acd840fba0d43a719e84c1a6dee3, type: 3}
-  - {fileID: 21300000, guid: e0a6aebbcce5fa9429693c6b34925480, type: 3}
-  - {fileID: 21300000, guid: 423d323519e37e948aec79c3802f96b4, type: 3}
+  - {fileID: 21300000, guid: 0ec08cbbbfb2a094786fee25c9c5a7ec, type: 3}
+  - {fileID: 21300000, guid: 08e5cfa8b1f779e4daa9f70a510702e3, type: 3}
+  - {fileID: 21300000, guid: 6db90330afcc9e140bd4c388dc3d98c9, type: 3}
+  - {fileID: 21300000, guid: aba5d1e2336f85943a1a6132703259a9, type: 3}
   numbers: 0000000000000000010000000100000002000000020000000300000003000000
   clear: 4
   countNumber: 3
@@ -1137,7 +1137,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1143883115
 MonoBehaviour:
   m_ObjectHideFlags: 0
